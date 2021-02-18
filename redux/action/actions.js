@@ -1,0 +1,7 @@
+export const GET_PRODUCT = 'GET_PRODUCT';
+export const SET_PRODUCT = 'SET_PRODUCT';
+export const CLEAR_PRODUCT = 'CLEAR_PRODUCT';
+export const GET_PRODUCT_CAT_WISE = 'GET_PRODUCT_CAT_WISE';
+
+export const GET_CATEGORY = 'GET_CATEGORY';
+export const SET_CATEGORY = 'SET_CATEGORY';

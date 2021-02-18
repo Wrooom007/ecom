@@ -1,0 +1,26 @@
+.category-part {
+  overflow-y: auto;
+  width: 20%;
+  border: 1px solid #eee;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 5px;
+  border-radius: 10px;
+  background-color: #fff;
+}
+
+.category-pill {
+  display: flex;
+  align-items: center;
+  height: 40px;
+  padding-left: 10px;
+  border-radius: 5px;
+  margin-bottom: 5px;
+  cursor: pointer;
+}
+
+.category-pill:hover {
+  background-color: #f5f5f5;
+}
+
+.category-pill.active {
+  background-color: #f5f5f5;
+}
